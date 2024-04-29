@@ -1,0 +1,25 @@
+body{
+    background-color: #212121;
+    color: #fff;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+} 
+
+.key{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: 700;
+    
+} 
+
+.insertTable,table,th,td{
+    border: 1px solid #fff;
+    font-size: 30px;
+    text-align: center;
+}
+
